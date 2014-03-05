@@ -7,14 +7,18 @@ module.exports = function(grunt) {
         keepSpecialComments: 0
       },
       combine: {
-        files: {
-          'stylesheets/guivinicius.min.css': ['stylesheets/bootstrap.css', 'stylesheets/zocial.css']
-        }
+        src: ['stylesheets/bootstrap.css', 'stylesheets/zocial.css'],
+        dest: 'stylesheets/guivinicius.min.css'
       }
+    },
+    watch: {
+      files: ['<%= cssmin.combine.src %>'],
+      tasks: ['cssmin']
     }
   });
 
   grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-contrib-watch');
 
   grunt.registerTask('default', 'cssmin');
 

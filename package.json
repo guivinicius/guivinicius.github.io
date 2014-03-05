@@ -19,7 +19,8 @@
   },
   "devDependencies": {
     "grunt"                : "x",
-    "grunt-contrib-cssmin" : "x"
+    "grunt-contrib-cssmin" : "x",
+    "grunt-contrib-watch" : "x"
   },
   "license": "MIT",
   "scripts":{
