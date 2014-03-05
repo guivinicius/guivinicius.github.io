@@ -1,6 +1,7 @@
 {
   "name": "guivinicius",
   "version": "1.0.0",
+  "private": true,
   "author": "guivinicius <gui.vinicius@gmail.com>",
   "description": "My personal landing page",
   "contributors": [
@@ -13,9 +14,16 @@
     "type": "git",
     "url": "https://github.com/guivinicius/guivinicius.github.io.git"
   },
+  "dependencies": {
+    "express": "3.x"
+  },
   "devDependencies": {
     "grunt"                : "x",
     "grunt-contrib-cssmin" : "x"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "scripts":{
+    "start": "node app.js"
+  }
+
 }
