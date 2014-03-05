@@ -1,0 +1,21 @@
+{
+  "name": "guivinicius",
+  "version": "1.0.0",
+  "author": "guivinicius <gui.vinicius@gmail.com>",
+  "description": "My personal landing page",
+  "contributors": [
+    {
+      "name": "Guilherme Vinicius Moreira",
+      "email": "gui.vinicius@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guivinicius/guivinicius.github.io.git"
+  },
+  "devDependencies": {
+    "grunt"                : "x",
+    "grunt-contrib-cssmin" : "x"
+  },
+  "license": "MIT"
+}
