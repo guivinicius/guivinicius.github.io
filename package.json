@@ -1,30 +1,9 @@
 {
-  "name": "guivinicius",
-  "version": "1.0.0",
-  "private": true,
-  "author": "guivinicius <gui.vinicius@gmail.com>",
-  "description": "My personal landing page",
-  "contributors": [
-    {
-      "name": "Guilherme Vinicius Moreira",
-      "email": "gui.vinicius@gmail.com"
-    }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/guivinicius/guivinicius.github.io.git"
-  },
-  "dependencies": {
-    "express": "3.x"
-  },
   "devDependencies": {
-    "grunt"                : "x",
-    "grunt-contrib-cssmin" : "x",
-    "grunt-contrib-watch" : "x"
+    "tailwindcss": "^3.4.17"
   },
-  "license": "MIT",
-  "scripts":{
-    "start": "node app.js"
+  "scripts": {
+    "build": "tailwindcss -i ./css/input.css -o ./css/application.css",
+    "watch": "tailwindcss -i ./css/input.css -o ./css/application.css --watch"
   }
-
 }
