@@ -10,8 +10,9 @@ Former specialty coffee shop and roastery owner (10 years in Brazil). Now focuse
 
 ## Projects
 
-- **Pourdle** (https://pourdle.wine) - Wordle for wine enthusiasts
-- **WineTF** (https://wtf.guiivinicius.com) - Retro-style sommelier simulation game
+- **Pourdle** (https://pourdle.wine) - Wordle for wine enthusiasts. Daily wine-related word guessing game
+- **Tarkov Operator** (https://guivinicius.github.io/tarkov-operator/) - Desktop voice AI companion for Escape from Tarkov
+- **WineTF** (https://wtf.guivinicius.com) - Retro-style sommelier simulation game
 - **BCL Deals** (https://bcldeals.com) - Find the best deals at BC Liquor Stores
 - **Coffee Prices** (https://vancouvercoffeeprices.ca) - Compare specialty coffee prices in Vancouver
 
@@ -19,7 +20,7 @@ Former specialty coffee shop and roastery owner (10 years in Brazil). Now focuse
 
 - YouTube: https://youtube.com/@gui-ando
 - X/Twitter: https://twitter.com/guivinicius
-- LinkedIn: https://www.linkedin.com/in/guihrm/
+- LinkedIn: https://www.linkedin.com/in/guivinicius/
 - Instagram: https://www.instagram.com/guivinicius
 - GitHub: https://github.com/guivinicius
 
