@@ -1,0 +1,44 @@
+# Guilherme Vinicius Moreira
+
+> Software Engineer based in Vancouver, Canada. Passionate about building practical tools, games, and solving real problems.
+
+## Profile Summary
+
+- **Name**: Guilherme Vinicius Moreira
+- **Role**: Software Engineer & Builder
+- **Location**: Vancouver, BC, Canada
+- **Origin**: Brazil
+- **Background**: Software engineering, former specialty coffee shop and roastery founder in Brazil for nearly a decade, and tech startup founder.
+- **Website**: https://guivinicius.com/
+
+## Projects
+
+### Tarkov Operator
+- **Description**: Desktop voice AI companion for Escape from Tarkov. Ask tactical and game questions out loud with push-to-talk and OS screen-capture vision context without Alt-Tabbing.
+- **URL**: https://guivinicius.github.io/tarkov-operator/
+- **Repository**: https://github.com/guivinicius/tarkov-operator
+- **Tech Stack**: Electron, Node.js, SQLite (FTS5), OpenAI API / OpenRouter, ElevenLabs, uiohook-napi
+
+### Pourdle
+- **Description**: Daily wine-related word guessing game inspired by Wordle for wine enthusiasts.
+- **URL**: https://pourdle.wine/
+
+### WineTF
+- **Description**: Retro-style sommelier simulation game. Manage a winery, serve customers, and climb the leaderboard.
+- **URL**: https://wtf.guivinicius.com/
+
+### BCL Deals
+- **Description**: Tool to discover the best deals and price drops at British Columbia Liquor Stores.
+- **URL**: https://bcldeals.com/
+
+### Coffee Prices
+- **Description**: Price comparison tool exploring the average price per kilogram of specialty coffee in Vancouver.
+- **URL**: https://vancouvercoffeeprices.ca/
+
+## Online Profiles & Contact
+
+- **GitHub**: https://github.com/guivinicius
+- **LinkedIn**: https://www.linkedin.com/in/guivinicius/
+- **YouTube**: https://youtube.com/@gui-ando
+- **X (Twitter)**: https://twitter.com/guivinicius
+- **Instagram**: https://www.instagram.com/guivinicius
