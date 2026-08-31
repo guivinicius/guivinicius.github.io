@@ -16,6 +16,17 @@ Former specialty coffee shop and roastery owner (10 years in Brazil). Now focuse
 - **BCL Deals** (https://bcldeals.com) - Find the best deals at BC Liquor Stores
 - **Coffee Prices** (https://vancouvercoffeeprices.ca) - Compare specialty coffee prices in Vancouver
 
+## Guides
+
+- **Moving to Vancouver (EN)**
+  - Stage 1: [Before Arriving](/articles/vancouver-immigration/before-arriving/) (Soon)
+  - Stage 2: [Arrival Guide / First Steps](/articles/vancouver-immigration/)
+  - Stage 3: [After Initial Setup](/articles/vancouver-immigration/after-setup/) (Soon)
+- **Mudança para Vancouver (PT-BR)**
+  - Etapa 1: [Antes de Chegar](/pt-br/artigos/imigracao-vancouver/antes-de-chegar/) (Em breve)
+  - Etapa 2: [Guia de Chegada / Primeiros Passos](/pt-br/artigos/imigracao-vancouver/)
+  - Etapa 3: [Depois do Setup](/pt-br/artigos/imigracao-vancouver/depois-do-setup/) (Em breve)
+
 ## Connect
 
 - YouTube: https://youtube.com/@gui-ando
